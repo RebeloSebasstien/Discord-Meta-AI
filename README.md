@@ -19,7 +19,7 @@ A simple open-source Discord bot with built-in integration for Meta AI, enabling
 1. Clone this repository:
    ```bash
    git clone https://github.com/RebeloSebasstien/Discord-Meta-AI.git
-   cd meta-ai-discord-bot
+   cd Discord-Meta-AI
    ```
 
 2. Install dependencies:
