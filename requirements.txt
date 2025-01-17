@@ -1,0 +1,4 @@
+python-dotenv
+discord.py
+openai
+better-profanity
